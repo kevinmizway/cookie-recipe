@@ -13,7 +13,7 @@ provided to the user in the event they wish to seek additional recipes._
 
 ## Setup/Installation Requirements
 
-* _Close this repository_
+* _Clone this repository_
 * _Locate project directory_
 * _Double-click cookie-recipe.HTML to open webpage in a browser_
 
